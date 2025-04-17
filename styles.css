@@ -124,7 +124,7 @@ nav .logo-container{
     0% {transform: rotateY(360deg);}
 }
 .head-details{
-    padding: 5rem 0;
+    padding: 5rem 1.5rem;
     display: flex;
     flex-direction: column;
     gap: .8rem;
